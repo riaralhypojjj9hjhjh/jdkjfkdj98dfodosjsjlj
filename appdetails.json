@@ -1,5 +1,5 @@
 {
-  "ads": "true",
+  "ads": "false",
   "update": [
     {
       "version": "2.8.2000",
@@ -42,8 +42,8 @@
     {
       "id": 0,
       "file": 0,
-      "city": "Essen",
-      "country": "Germany",
+      "city": "Essen1",
+      "country": "Germany1",
       "image": "germany",
       "ip": "51.68.191.75",
       "active": "true",
