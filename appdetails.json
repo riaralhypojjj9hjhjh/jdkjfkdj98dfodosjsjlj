@@ -15,7 +15,7 @@
       "file": 0,
       "city": "New York",
       "country": "USA",
-      "image": "unitedstates",
+      "image": "germany",
       "ip": "51.68.191.75",
       "active": "true",
       "signal": "a"
@@ -25,7 +25,7 @@
       "file": 1,
       "city": "Dallas",
       "country": "USA",
-      "image": "unitedstates",
+      "image": "germany",
       "ip": "51.68.191.75",
       "active": "true",
       "signal": "b"
